@@ -1,6 +1,6 @@
 # Mahsa
 
-#Description
+# Description
 Mahsa Chat App is a Flutter-based chat application that allows users to communicate with each other in real-time. The app utilizes various technologies such as Riverpod for state management and Firebase for the backend, including Firebase Authentication, Cloud Storage, and Realtime Database.
 
 #Features
